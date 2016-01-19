@@ -1,0 +1,5 @@
+<map id="exec::MemEntryResponse" name="exec::MemEntryResponse">
+<area shape="rect" id="node3" href="$classexec_1_1MemEntry.html" title="input and output of AllocEntry(), ROMTags, and used by Tasks for memory autorelease [AmigaOS struct M..." alt="" coords="271,180,364,203"/>
+<area shape="rect" id="node4" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="147,98,218,121"/>
+<area shape="rect" id="node5" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="5,5,93,28"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="exec::Node" name="exec::Node">
+<area shape="rect" id="node3" href="$classexec_1_1Heap.html" title="an allocatable memory zone [AmigaOS struct MemHeader] " alt="" coords="288,5,359,28"/>
+<area shape="rect" id="node4" href="$structexec_1_1Interrupt.html" title="(Stub declaration) " alt="" coords="279,52,367,75"/>
+<area shape="rect" id="node5" href="$classexec_1_1Library.html" title="a system library " alt="" coords="284,99,363,122"/>
+<area shape="rect" id="node9" href="$classexec_1_1MemEntry.html" title="input and output of AllocEntry(), ROMTags, and used by Tasks for memory autorelease [AmigaOS struct M..." alt="" coords="277,145,369,168"/>
+<area shape="rect" id="node10" href="$classexec_1_1Message.html" title="a message [AmigaOS struct Message] " alt="" coords="280,192,366,215"/>
+<area shape="rect" id="node13" href="$classexec_1_1Port.html" title="a message port [AmigaOS struct MsgPort] " alt="" coords="290,239,356,262"/>
+<area shape="rect" id="node15" href="$classexec_1_1ResidentArray_1_1BuilderNode.html" title="exec::ResidentArray\l::BuilderNode" alt="" coords="268,285,378,319"/>
+<area shape="rect" id="node16" href="$structexec_1_1SignalSemaphore.html" title="(Stub declaration) " alt="" coords="260,343,386,366"/>
+<area shape="rect" id="node17" href="$classexec_1_1Task.html" title="(Stub declaration) " alt="" coords="289,389,357,412"/>
+<area shape="rect" id="node2" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="5,192,93,215"/>
+<area shape="rect" id="node6" href="$classexec_1_1Device.html" title="(Stub declaration) " alt="" coords="442,52,519,75"/>
+<area shape="rect" id="node7" href="$classexec_1_1ExecBase.html" title="exec global data " alt="" coords="437,99,524,122"/>
+<area shape="rect" id="node8" href="$classexec_1_1Resource.html" title="(Stub declaration) " alt="" coords="436,145,525,168"/>
+<area shape="rect" id="node11" href="$classexec_1_1IORequest.html" title="(Stub declaration) " alt="" coords="434,192,527,215"/>
+<area shape="rect" id="node12" href="$classexec_1_1IOStdReq.html" title="(Stub declaration) " alt="" coords="575,192,664,215"/>
+<area shape="rect" id="node14" href="$classexec_1_1Unit.html" title="(Stub declaration) " alt="" coords="447,239,514,262"/>
+</map>

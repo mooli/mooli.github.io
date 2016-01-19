@@ -1,0 +1,18 @@
+<map id="exec/types.hpp" name="exec/types.hpp">
+<area shape="rect" id="node2" href="$buffer_8hpp.html" title="Memory buffers (headers) " alt="" coords="5,220,100,243"/>
+<area shape="rect" id="node4" href="$debugger_8cpp.html" title="Debugger (implementation) " alt="" coords="1056,149,1166,172"/>
+<area shape="rect" id="node5" href="$libc_8hpp.html" title="exec/libc.hpp" alt="" coords="846,78,929,101"/>
+<area shape="rect" id="node10" href="$execbase_8hpp.html" title="ExecBase (headers) " alt="" coords="579,291,687,314"/>
+<area shape="rect" id="node11" href="$new_8cpp.html" title="exec/new.cpp" alt="" coords="1028,362,1112,385"/>
+<area shape="rect" id="node12" href="$types_8cpp.html" title="Exec class size checks. " alt="" coords="396,362,485,385"/>
+<area shape="rect" id="node13" href="$list_8hpp.html" title="List processing (headers) " alt="" coords="476,78,557,101"/>
+<area shape="rect" id="node14" href="$memory_8hpp.html" title="Memory handling (headers) " alt="" coords="262,149,366,172"/>
+<area shape="rect" id="node15" href="$new_8hpp.html" title="Dynamic memory management. " alt="" coords="182,220,267,243"/>
+<area shape="rect" id="node16" href="$message_8hpp.html" title="Messaging (headers) " alt="" coords="545,220,651,243"/>
+<area shape="rect" id="node17" href="$library_8hpp.html" title="Libraries (headers) " alt="" coords="777,220,872,243"/>
+<area shape="rect" id="node3" href="$execbase_8cpp.html" title="ExecBase (implementation) " alt="" coords="46,362,153,385"/>
+<area shape="rect" id="node6" href="$libc_8cpp.html" title="exec/libc.cpp" alt="" coords="950,149,1032,172"/>
+<area shape="rect" id="node7" href="$library_8cpp.html" title="exec/library.cpp" alt="" coords="777,362,872,385"/>
+<area shape="rect" id="node8" href="$list_8cpp.html" title="List processing (implementation) " alt="" coords="745,149,824,172"/>
+<area shape="rect" id="node9" href="$memory_8cpp.html" title="Memory handling (implementation) " alt="" coords="214,291,317,314"/>
+</map>

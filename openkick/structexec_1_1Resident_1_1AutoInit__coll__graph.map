@@ -1,0 +1,7 @@
+<map id="exec::Resident::AutoInit" name="exec::Resident::AutoInit">
+<area shape="rect" id="node9" href="$classexec_1_1Library.html" title="a system library " alt="" coords="247,224,325,247"/>
+<area shape="rect" id="node3" href="$classexec_1_1PackedFunctions.html" title="a packed function table. " alt="" coords="590,224,713,247"/>
+<area shape="rect" id="node7" href="$classexec_1_1PackedStruct.html" title="a packed data structure " alt="" coords="5,161,111,184"/>
+<area shape="rect" id="node10" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="288,98,359,121"/>
+<area shape="rect" id="node11" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="404,5,491,28"/>
+</map>

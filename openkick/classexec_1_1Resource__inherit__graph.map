@@ -1,0 +1,5 @@
+<map id="exec::Resource" name="exec::Resource">
+<area shape="rect" id="node2" href="$classexec_1_1Library.html" title="a system library " alt="" coords="10,147,89,170"/>
+<area shape="rect" id="node3" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="14,76,85,99"/>
+<area shape="rect" id="node4" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="6,5,93,28"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="exec::Unit" name="exec::Unit">
+<area shape="rect" id="node2" href="$classexec_1_1Port.html" title="a message port [AmigaOS struct MsgPort] " alt="" coords="186,388,251,411"/>
+<area shape="rect" id="node3" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="319,202,390,225"/>
+<area shape="rect" id="node4" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="291,5,379,28"/>
+<area shape="rect" id="node9" href="$classexec_1_1MinList.html" title="a simple doubly&#45;linked list of MinNode [AmigaOS struct MinList] " alt="" coords="88,109,168,132"/>
+<area shape="rect" id="node8" href="$classexec_1_1List.html" title="a simple doubly&#45;linked list of Node [AmigaOS struct List] " alt="" coords="98,202,161,225"/>
+<area shape="rect" id="node7" href="$classexec_1_1ListOf.html" title="exec::ListOf\&lt; exec\l::Message \&gt;" alt="" coords="77,295,182,329"/>
+</map>

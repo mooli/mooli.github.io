@@ -1,0 +1,5 @@
+<map id="exec::ListOf&lt; node_t &gt;" name="exec::ListOf&lt; node_t &gt;">
+<area shape="rect" id="node2" href="$classexec_1_1List.html" title="a simple doubly&#45;linked list of Node [AmigaOS struct List] " alt="" coords="79,202,142,225"/>
+<area shape="rect" id="node3" href="$classexec_1_1MinList.html" title="a simple doubly&#45;linked list of MinNode [AmigaOS struct MinList] " alt="" coords="9,109,89,132"/>
+<area shape="rect" id="node4" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="5,5,93,28"/>
+</map>

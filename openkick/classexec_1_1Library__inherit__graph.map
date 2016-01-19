@@ -1,0 +1,7 @@
+<map id="exec::Library" name="exec::Library">
+<area shape="rect" id="node4" href="$classexec_1_1Device.html" title="(Stub declaration) " alt="" coords="5,218,83,241"/>
+<area shape="rect" id="node5" href="$classexec_1_1ExecBase.html" title="exec global data " alt="" coords="107,218,195,241"/>
+<area shape="rect" id="node6" href="$classexec_1_1Resource.html" title="(Stub declaration) " alt="" coords="218,218,307,241"/>
+<area shape="rect" id="node2" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="115,76,186,99"/>
+<area shape="rect" id="node3" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="107,5,195,28"/>
+</map>

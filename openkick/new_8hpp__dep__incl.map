@@ -1,0 +1,8 @@
+<map id="exec/new.hpp" name="exec/new.hpp">
+<area shape="rect" id="node2" href="$execbase_8hpp.html" title="ExecBase (headers) " alt="" coords="130,76,238,99"/>
+<area shape="rect" id="node3" href="$execbase_8cpp.html" title="ExecBase (implementation) " alt="" coords="5,147,112,170"/>
+<area shape="rect" id="node7" href="$memory_8cpp.html" title="Memory handling (implementation) " alt="" coords="262,76,365,99"/>
+<area shape="rect" id="node4" href="$library_8cpp.html" title="exec/library.cpp" alt="" coords="137,147,232,170"/>
+<area shape="rect" id="node5" href="$new_8cpp.html" title="exec/new.cpp" alt="" coords="255,147,340,170"/>
+<area shape="rect" id="node6" href="$types_8cpp.html" title="Exec class size checks. " alt="" coords="363,147,453,170"/>
+</map>

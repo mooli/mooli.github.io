@@ -1,0 +1,11 @@
+<map id="exec::SignalSemaphore" name="exec::SignalSemaphore">
+<area shape="rect" id="node2" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="352,205,423,227"/>
+<area shape="rect" id="node7" href="$classexec_1_1Task.html" title="(Stub declaration) " alt="" coords="1016,365,1084,387"/>
+<area shape="rect" id="node3" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="5,230,93,253"/>
+<area shape="rect" id="node6" href="$structexec_1_1SemaphoreRequest.html" title="(Stub declaration) " alt="" coords="1162,341,1296,363"/>
+<area shape="rect" id="node14" href="$classexec_1_1MinList.html" title="a simple doubly&#45;linked list of MinNode [AmigaOS struct MinList] " alt="" coords="180,475,259,498"/>
+<area shape="rect" id="node13" href="$classexec_1_1List.html" title="a simple doubly&#45;linked list of Node [AmigaOS struct List] " alt="" coords="356,475,419,498"/>
+<area shape="rect" id="node11" href="$classexec_1_1MemEntryList.html" title="List of MemEntry; used by Tasks for memory autorelease. " alt="" coords="781,486,889,509"/>
+<area shape="rect" id="node12" href="$classexec_1_1ListOf.html" title="exec::ListOf\&lt; MemEntry \&gt;" alt="" coords="592,479,732,502"/>
+<area shape="rect" id="node18" href="$classexec_1_1MinListOf.html" title="exec::MinListOf\&lt; exec\l::MinNode \&gt;" alt="" coords="447,562,568,596"/>
+</map>

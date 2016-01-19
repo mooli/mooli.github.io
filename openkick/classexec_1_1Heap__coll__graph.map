@@ -1,0 +1,5 @@
+<map id="exec::Heap" name="exec::Heap">
+<area shape="rect" id="node2" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="160,98,232,121"/>
+<area shape="rect" id="node3" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="5,5,93,28"/>
+<area shape="rect" id="node7" href="$classexec_1_1Heap_1_1Chunk.html" title="a chunk of unallocated memory within a Heap [AmigaOS struct MemChunk] " alt="" coords="344,98,450,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="exec::MemEntry" name="exec::MemEntry">
+<area shape="rect" id="node2" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="16,76,87,99"/>
+<area shape="rect" id="node3" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="8,5,96,28"/>
+</map>

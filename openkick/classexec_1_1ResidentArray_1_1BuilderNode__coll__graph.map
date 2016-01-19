@@ -1,0 +1,9 @@
+<map id="exec::ResidentArray::BuilderNode" name="exec::ResidentArray::BuilderNode">
+<area shape="rect" id="node2" href="$classexec_1_1Node.html" title="a doubly&#45;linked list node with a priority and name [AmigaOS struct Node] " alt="" coords="752,98,823,121"/>
+<area shape="rect" id="node14" href="$classexec_1_1Library.html" title="a system library " alt="" coords="452,240,531,263"/>
+<area shape="rect" id="node3" href="$classexec_1_1MinNode.html" title="a doubly&#45;linked list node [AmigaOS struct MinNode] " alt="" coords="709,5,797,28"/>
+<area shape="rect" id="node6" href="$structexec_1_1Resident.html" title="a resident module, aka ROMTag " alt="" coords="567,420,653,443"/>
+<area shape="rect" id="node13" href="$classexec_1_1PackedStruct.html" title="a packed data structure " alt="" coords="255,161,360,184"/>
+<area shape="rect" id="node7" href="$structexec_1_1Resident_1_1AutoInit.html" title="The autoinit structure; essentially the parameters for MakeLibrary(). " alt="" coords="298,338,426,361"/>
+<area shape="rect" id="node9" href="$classexec_1_1PackedFunctions.html" title="a packed function table. " alt="" coords="78,240,201,263"/>
+</map>
